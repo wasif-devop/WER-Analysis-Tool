@@ -1,4 +1,4 @@
-# Speech Recognition Application Documentation
+# WER Analysis Tool Documentation
 
 ## Overview
 This application provides a comprehensive suite of speech recognition and transcription tools, offering four different modes of operation:
